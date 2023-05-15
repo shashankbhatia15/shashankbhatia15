@@ -2,9 +2,7 @@
 
 🔭 I’m currently working on Machine Learning and Deep learning projects.
 
-🌱 I’m currently learning various machine learning techniques.
-
-👯 I’m looking to collaborate on machine learning projects.
+👯 I’m looking to collaborate on deep/machine learning projects.
 
 💬 Ask me about Artificial Intelligence, DataScience, Chess.
 
