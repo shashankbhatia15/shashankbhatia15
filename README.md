@@ -1,8 +1,8 @@
 🧔 I am a data scientist.
 
-🔭 I’m currently working on Machine Learning and Deep learning projects.
+🔭 I’m currently working on Gen AI based projects.
 
-👯 I’m looking to collaborate on deep/machine learning projects.
+👯 Open to collaborate.
 
 💬 Ask me about Artificial Intelligence, DataScience, Chess.
 
